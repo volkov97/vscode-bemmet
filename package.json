@@ -3,6 +3,11 @@
   "displayName": "vscode-bemmet",
   "description": "VSCode plugin to expand bemmet abbreviation into BEMJSON.",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VolkovGerman/vscode-bemmet"
+  },
+  "icon": "docs/images/icon.png",
   "publisher": "volkov97",
   "engines": {
     "vscode": "^1.11.0"
